@@ -1,0 +1,5 @@
+
+> chatui@0.1.0 test /home/suresh/Desktop/FYPproject/chatui
+> react-scripts test
+
+
