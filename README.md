@@ -34,7 +34,7 @@ Steps for running the project
 From now on the communication can be started. The queries about the college, affiliated university, available academic programs etc etc can be asked and the bot replies with the answers. 
 These are the steps required for running the cloud funciton.
 
-##############################################################################
-# note : authentication key, project ID are most for running for the project. Due to security concern I have not included #those sensitive information here.
-##############################################################################
+# Note :
+authentication key, project ID are most for running for the project. Due to security concern I have not included those sensitive information here.
+
 
